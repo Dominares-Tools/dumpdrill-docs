@@ -8,7 +8,7 @@ dumpdrill restores a pg_dump into a scratch database and checks the rows against
 
 ## Get it
 
-Buy dumpdrill at https://dominares.org/tools/dumpdrill: one payment of $99, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python library and the dumpdrill command, with an offline demo and the full test suite.
+Buy dumpdrill at https://dominares.org/tools/dumpdrill: one payment of $99, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python library and the dumpdrill command, with an offline demo and the test suite.
 
 Requirements: Python 3.10 or newer, standard library only. The Postgres checks need PostgreSQL's command-line tools (psql, pg_restore, and initdb and pg_ctl for the built-in throwaway server) on your machine.
 
